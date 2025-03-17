@@ -1,0 +1,128 @@
+[
+  {
+    "t": "AnimalsCrushMatch3",
+    "o": 1,
+    "a": 1,
+    "c": "Casual"
+  },
+  {
+    "t": "2048Puzzle",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "1line",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "AirFight",
+    "o": 0,
+    "a": 1,
+    "c": "Flight Shooting"
+  },
+  {
+    "t": "4Pic1Word",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "8BallPool",
+    "o": 0,
+    "a": 1,
+    "c": "Sports"
+  },
+  {
+    "t": "DinosMemory",
+    "o": 0,
+    "a": 1,
+    "c": "Action"
+  },
+  {
+    "t": "AmazingJump",
+    "o": 1,
+    "a": 1,
+    "c": "Casual"
+  },
+  {
+    "t": "20Punch",
+    "o": 1,
+    "a": 1,
+    "c": "Action"
+  },
+  {
+    "t": "AirWolves",
+    "o": 0,
+    "a": 0,
+    "c": "Flight Shooting"
+  },
+  {
+    "t": "BalloonPop",
+    "o": 1,
+    "a": 0,
+    "c": "Casual"
+  },
+  {
+    "t": "Around",
+    "o": 1,
+    "a": 0,
+    "c": "Casual"
+  },
+  {
+    "t": "AnimalMemoryGame",
+    "o": 0,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "BasketballBrickBreaking",
+    "o": 1,
+    "a": 0,
+    "c": "Sports"
+  },
+  {
+    "t": "AirWar1941",
+    "o": 1,
+    "a": 0,
+    "c": "Flight Shooting"
+  },
+  {
+    "t": "ColorRun",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "8BallPoolBilliards",
+    "o": 0,
+    "a": 0,
+    "c": "Sports"
+  },
+  {
+    "t": "AmazingCubeAdventure",
+    "o": 0,
+    "a": 0,
+    "c": "Adventure"
+  },
+  {
+    "t": "Basketball",
+    "o": 0,
+    "a": 0,
+    "c": "Sports"
+  },
+  {
+    "t": "ArithmeticLine",
+    "o": 1,
+    "a": 0,
+    "c": "Casual"
+  },
+  {
+    "t": "BallInTheCup",
+    "o": 0,
+    "a": 0,
+    "c": "Casual"
+  }
+]

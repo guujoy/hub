@@ -1,6 +1,6 @@
 [
   {
-    "t": "AnimalsCrushMatch3",
+    "t": "JellyCrushMatch",
     "o": 1,
     "a": 1,
     "c": "Casual"
@@ -24,7 +24,7 @@
     "c": "Flight Shooting"
   },
   {
-    "t": "4Pic1Word",
+    "t": "WordPuzzle",
     "o": 1,
     "a": 1,
     "c": "Puzzle"

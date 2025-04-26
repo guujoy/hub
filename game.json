@@ -1,5 +1,41 @@
 [
   {
+    "t": "2030",
+    "o": 0,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "2048Puzzle",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "ColorTower",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "TwoDots",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "TwosQuares",
+    "o": 0,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
+    "t": "WordConnect",
+    "o": 1,
+    "a": 1,
+    "c": "Puzzle"
+  },
+  {
     "t": "JellyCrushMatch",
     "o": 1,
     "a": 1,
@@ -92,6 +128,48 @@
   {
     "t": "ColorRun",
     "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "QuickColor",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "4096",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "DancingLineOnline",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "AirHockey",
+    "o": 1,
+    "a": 0,
+    "c": "Shooting"
+  },
+  {
+    "t": "StickCatcher",
+    "o": 1,
+    "a": 0,
+    "c": "Action"
+  },
+  {
+    "t": "CrossyRoadOnline",
+    "o": 1,
+    "a": 0,
+    "c": "Action"
+  },
+  {
+    "t": "WordsFamily",
+    "o": 0,
     "a": 0,
     "c": "Puzzle"
   },

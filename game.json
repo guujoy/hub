@@ -53,6 +53,50 @@
     "a": 1,
     "c": "Action"
   },
+
+  {
+    "t": "QuickColor",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "4096",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "DancingLineOnline",
+    "o": 1,
+    "a": 0,
+    "c": "Puzzle"
+  },
+  {
+    "t": "AirHockey",
+    "o": 1,
+    "a": 0,
+    "c": "Shooting"
+  },
+  {
+    "t": "StickCatcher",
+    "o": 1,
+    "a": 0,
+    "c": "Action"
+  },
+  {
+    "t": "CrossyRoadOnline",
+    "o": 1,
+    "a": 0,
+    "c": "Action"
+  },
+  {
+    "t": "WordsFamily",
+    "o": 0,
+    "a": 0,
+    "c": "Puzzle"
+  },
+
   {
     "t": "AirWolves",
     "o": 0,
@@ -96,48 +140,6 @@
     "c": "Puzzle"
   },
   {
-    "t": "QuickColor",
-    "o": 1,
-    "a": 0,
-    "c": "Puzzle"
-  },
-  {
-    "t": "4096",
-    "o": 1,
-    "a": 0,
-    "c": "Puzzle"
-  },
-  {
-    "t": "DancingLineOnline",
-    "o": 1,
-    "a": 0,
-    "c": "Puzzle"
-  },
-  {
-    "t": "AirHockey",
-    "o": 1,
-    "a": 0,
-    "c": "Shooting"
-  },
-  {
-    "t": "StickCatcher",
-    "o": 1,
-    "a": 0,
-    "c": "Action"
-  },
-  {
-    "t": "CrossyRoadOnline",
-    "o": 1,
-    "a": 0,
-    "c": "Action"
-  },
-  {
-    "t": "WordsFamily",
-    "o": 0,
-    "a": 0,
-    "c": "Puzzle"
-  },
-  {
     "t": "8BallPoolBilliards",
     "o": 0,
     "a": 0,
@@ -167,4 +169,5 @@
     "a": 0,
     "c": "Casual"
   }
+  
 ]
